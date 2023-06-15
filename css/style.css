@@ -15,6 +15,7 @@
 :root{
 	--bg-color: #10151e;
 	--second-bg-color: #323946;
+	--third-bg-color: #323946;
 	--text-color: #fff;
 	--main-color: #0ef;
 
@@ -391,7 +392,7 @@ a{
 	padding: 1.5rem;
 	font-size: 1.6rem;
 	color: var(--text-color);
-	background: var(--second-bg-color);
+	background: var(--third-bg-color);
 	border-radius: .8rem;
 	margin: .7rem 0;
 }
